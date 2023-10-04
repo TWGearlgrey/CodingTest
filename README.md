@@ -1,4 +1,5 @@
 # CodingTest
 
 ## BAEKJOON_step 
-백준 단계별로 풀어보기(https://www.acmicpc.net/step)에서 푼 문제들입니다.
+백준 단계별로 풀어보기에서 푼 문제들입니다. <br>
+현재 진행도 **13단계_정렬**... **7번문제_좌표 정렬하기** ing..
